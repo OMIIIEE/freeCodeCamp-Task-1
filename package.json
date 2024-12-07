@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "A project that does something awesome",
-	"keywords": [ "nodejs","freecodecamp", "express"],
+	"keywords": [ "freecodecamp","nodejs","freecodecamp", "express"],
 	"author": "Om Prakash",
 	"license": "ISC",
 	"bugs": {
