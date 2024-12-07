@@ -13,7 +13,10 @@
 	},
 	"version": "1.0.0",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp","nodejs","freecodecamp", "express"],
+	"keywords": [ 
+    "freecodecamp", 
+    "microservice", 
+    "guide" ],
 	"author": "Om Prakash",
 	"license": "ISC",
 	"bugs": {
